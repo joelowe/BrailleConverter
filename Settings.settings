@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BrailleConverter" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TopMargin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TM2</Value>
+    </Setting>
+    <Setting Name="LeftMargin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BI3</Value>
+    </Setting>
+    <Setting Name="CharLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CH30</Value>
+    </Setting>
+    <Setting Name="LinesPage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LP26</Value>
+    </Setting>
+    <Setting Name="PageMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DP1</Value>
+    </Setting>
+    <Setting Name="LineSpacing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LS50</Value>
+    </Setting>
+    <Setting Name="Copies" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MC1</Value>
+    </Setting>
+    <Setting Name="PageNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PN3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
